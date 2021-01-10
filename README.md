@@ -1,7 +1,7 @@
-#PROFILING OF PROSPECTIVE STUDENTS FOR DETERMINING THE SUCCESS IN UPH USING SVM, RF, AND DT
+# PROFILING OF PROSPECTIVE STUDENTS FOR DETERMINING THE SUCCESS IN UPH USING SVM, RF, AND DT
 Thesis Project
 
-#ABSTRACT
+# ABSTRACT
 High school students need to know their success of studies predictions at universities. 
 To help them, profiling prospective students is needed in order to have sufficient information 
 for the students to consider coming from the data they already have. 
