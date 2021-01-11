@@ -20,3 +20,7 @@ GPA prediction in SVM experiments tend to increase following the increasing of N
 Actual data from UPH alumni and Decision Tree GPA prediction from a most of experiment result show that 
 actual GPA is higher than the prediction and length of study already match with the prediction. 
 The evaluation results show that the most accurate GPA prediction is SVM, semester prediction is Random Forest, and study program prediction is SVM.
+
+# DEMO VIDEO LINK:
+https://youtu.be/HKkyESmlgyg 
+
